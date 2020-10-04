@@ -1,7 +1,7 @@
 # GameProject
 
 
-Controls:
+Game Controls:
 
 a,s,d,w for movement
 
